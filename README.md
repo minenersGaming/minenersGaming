@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi!, I'm mineners. 👋</h1>
 <div align="center">
-  I'm mineners, a high school student who interested in programming and web developer. 📖
+  I'm mineners, a high school student who interested in programming and web development. 📖
 </div>
 <br>
 <h2 align="center">tools and languages I have ever used 🛠️</h2>
